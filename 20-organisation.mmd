@@ -66,23 +66,16 @@ flowchart TB
     CIO --> |"sitzt vor"| DigitalBoard
     CIO --> |"ist vorgesetzt"| Dezernatsleitung  
 
-    %% Übergeordneter Kasten um SDIP und HochschulIT
-    subgraph IT_Organisation[" "]
-        %% SDIP in eigenem Kasten mit Kindern
-        subgraph SDIP_Bereich[" "]
-            SDIP["Stabsstelle Digitale Innovation<br/>& Prozessmanagement"]:::ebene3
-            PMO["Prozessmanagement (PMO)"]:::ebene4
-            DTO["Digitalisierung (DTO)"]:::ebene4
-            AIO["KI in der Verwaltung (AIO)"]:::ebene4
-            
-            %% SDIP Verbindungen innerhalb
-            SDIP --> |"umfasst"| PMO
-            SDIP --> |"umfasst"| DTO
-            SDIP --> |"umfasst"| AIO
-        end
+    %% SDIP außerhalb der IT-Organisation
+    SDIP["Stabsstelle Digitale Innovation<br/>& Prozessmanagement"]:::ebene3
+    
+    %% SDIP Untereinheiten (auskommentiert)
+    %% PMO["Prozessmanagement (PMO)"]:::ebene4
+    %% DTO["Digitalisierung (DTO)"]:::ebene4
+    %% AIO["KI in der Verwaltung (AIO)"]:::ebene4
 
-        %% HochschulIT-Subgraph (nur für Dezernatsleitung und IT-Bereiche)
-        subgraph HochschulIT[" "]
+    %% HochschulIT-Subgraph (nur für Dezernatsleitung und IT-Bereiche)
+    subgraph HochschulIT[" "]
             direction LR
             
             subgraph Dezernatsleitung["Leitung der Hochschul-IT"]
@@ -95,11 +88,15 @@ flowchart TB
             IT2["IT2: Infrastruktur und<br/>zentrale Dienste"]:::ebene4
             IT3["IT3: Client-Management und<br/>Anwenderunterstützung"]:::ebene4
 
-            Dezernatsleitung --> |"ist vorgesetzt"|IT1
-            Dezernatsleitung --> |"ist vorgesetzt"|IT2
-            Dezernatsleitung --> |"ist vorgesetzt"|IT3
-        end
+        Dezernatsleitung --> |"ist vorgesetzt"|IT1
+        Dezernatsleitung --> |"ist vorgesetzt"|IT2
+        Dezernatsleitung --> |"ist vorgesetzt"|IT3
     end
+    
+    %% SDIP Verbindungen (auskommentiert)
+    %% SDIP --> |"umfasst"| PMO
+    %% SDIP --> |"umfasst"| DTO
+    %% SDIP --> |"umfasst"| AIO
 
     
     %% Professionelle Farbdefinitionen für die hierarchischen Ebenen
