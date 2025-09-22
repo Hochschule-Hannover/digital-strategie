@@ -1,0 +1,49 @@
+%%{init: {
+  "theme": "dark", 
+  "themeVariables": {
+    "fontFamily": "'FF Unit Pro', cursive, sans-serif", 
+    "fontSize": "20px",
+    "primaryColor": "#fafafa",
+    "primaryBorderColor": "#333333",
+    "background": "#fffdf8",
+    "mainBkg": "#fffdf8",
+    "lineColor": "#555555",
+    "textColor": "#666666"
+  }, 
+  "flowchart": {
+    "diagramPadding": 32, 
+    "nodeSpacing": 50, 
+    "rankSpacing": 70, 
+    "curve": "basis"
+  }
+}}%%
+flowchart BT
+    %% Stile für den Handgezeichnet-Look
+    linkStyle default stroke:#555555,stroke-width:1.5px,stroke-dasharray: 3 3
+    
+    %% Externe Organisationen
+    HDN["Hochschule Digital<br/>Niedersachsen (HDN)"]:::ebene0
+    LANIT["Landesarbeitskreis Niedersachsen Informationstechnik / Hochschulrechenzentren (LANIT)"]:::ebene0
+    GWDG["Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)"]:::ebene0
+    
+    %% Ständige Kommission als eigenständiger Knoten
+    SKD["Ständige Kommission<br/>Digitalisierung"]:::ebene0
+    
+    %% Hochschule Hannover
+    subgraph HsH["Hochschule Hannover"]
+        Praesidium["Präsidium"]:::ebene1
+        CIO["Chief Information<br/>Officer (CIO)"]:::ebene2
+    end
+    
+    %% Verbindungen
+    Praesidium --> |"bringt Anforderungen ein"| HDN
+    CIO --> |"bringt Anforderungen ein"| LANIT
+    Praesidium --> |"ist vorgesetzt"| CIO
+    GWDG --> |"erbringt Leistungen an"| HsH
+    Praesidium --> |"wird vertreten durch Präsident"| SKD
+    HDN --> |"steuert für alle Hochschulen"| GWDG
+    
+    %% Farbdefinitionen
+    classDef ebene0 fill:#E6F3FF,stroke:#B3D9FF,stroke-width:1px,color:#333333
+    classDef ebene1 fill:#1A365D,stroke:#0A1A2F,stroke-width:1px,color:#FFFFFF,font-weight:bold
+    classDef ebene2 fill:#2A4C7D,stroke:#1A365D,stroke-width:1px,color:#FFFFFF

@@ -20,6 +20,8 @@ Reduktion von Komplexität, Fokussierung der IT-Kompetenzen und Vermeidung von �
 
 * **Commodity First**: Die HsH bevorzugt am Markt etablierte Lösungen gegenüber Eigenentwicklungen.
 * **Cloud First**: Die HsH priorisiert extern betriebene, zentralisierte Cloud-Services, um Flexibilität und Skalierbarkeit zu gewährleisten.
+* Die HsH bringt sich intensiv in die **Hochschule.Digital.Niedersachsen (HDN)** ein, um von gemeinsamen Lösungen zu profitieren.
+* Die HsH etabliert ein **Providermanagement** zur Steuerung aller externen IT-Dienste und IT-Ressourcen.
 
 ### Verbesserung der Kern- und Unterstützungsprozesse
 
@@ -68,14 +70,12 @@ Etablierung einer zukunftsfähigen Digital-Governance-Struktur, die einerseits d
 **Strategische Ansätze**
 
 * Die HsH implementiert einen strukturierten **IT-Planungszyklus**, in dem alle Organisationseinheiten ihre Bedarfe systematisch erheben und priorisieren.
-* Die HsH etabliert ein zentrales **Providermanagement**, das alle externen IT-Dienste und -Dienstleister steuert, um Qualität und Wirtschaftlichkeit sicherzustellen.
 * Die Fakultäten praktizieren eine **interne Anforderungskonsolidierung**, bevor Bedarfe in den hochschulweiten Planungsprozess eingebracht werden.
 * Die HsH etabliert ein **Digital-Governance-Gremium** für strategische IT-Empfehlungen mit ausgewogener Repräsentation.
 * Die HsH trifft IT-Entscheidungen nach **transparenten Kriterien** unter Einbeziehung aller relevanten Hochschulgremien.
 * Die HsH entwickelt **verbindliche Service-Level-Vereinbarungen** zwischen Dienstleister:innen und Nutzer:innen innerhalb der Hochschule.
 * Die HsH schafft **Anreizsysteme** für die Einhaltung vereinbarter Standards und Prozesse durch transparente Vorteile.
 * Die HsH ermöglicht begründete **fachspezifische IT-Lösungen** innerhalb definierter technischer und sicherheitsrelevanter Rahmenbedingungen.
-* Die HsH führt eine **regelmäßige Governance-Evaluation** durch und passt Strukturen gemeinsam mit allen Stakeholdern an.
 * Die Mitglieder und Angehörigen der HsH praktizieren eine **gemeinsame IT-Verantwortung** für wirtschaftliche, sichere und interoperable Systeme.
 
 ### Compliance und wirtschaftliche Ressourcennutzung

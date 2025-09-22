@@ -22,7 +22,13 @@ flowchart TB
     %% Stile für den Handgezeichnet-Look
     linkStyle default stroke:#555555,stroke-width:1.5px,stroke-dasharray: 3 3
     
-    %% Präsidium direkt über CIO
+    %% HDN an der Spitze
+    HDN["Hochschule Digital<br/>Niedersachsen (HDN)"]:::ebene0
+    
+    %% LANIT auf gleicher Ebene
+    LANIT["LANIT"]:::ebene0
+    
+    %% Präsidium direkt unter HDN
     PraesidiumIT["Präsidium mit dem Ressort<br/>Digitalisierung und IT"]:::ebene1
 
     %% SDIP (Stabsstelle) - zuerst definiert außerhalb
@@ -36,6 +42,7 @@ flowchart TB
     
     %% Digitalstrategie wird vom Präsidium entwickelt
     PraesidiumIT --> |"entwickelt"| Digitalstrategie
+    PraesidiumIT --> |"bringt Anforderung ein"| HDN
 
         %% Ebene 4 - Ausführende Ebene
         FIOs["Faculty Information<br/>Officers"]:::ebene1
@@ -58,42 +65,47 @@ flowchart TB
     
     CIO --> |"operationalisiert"| Digitalstrategie
     CIO --> |"sitzt vor"| DigitalBoard
-    CIO --> |"ist vorgesetzt"| Dezernatsleitung  
+    CIO --> |"ist vorgesetzt"| Dezernatsleitung
+    CIO --> |"bringt Anforderung ein"| LANIT  
 
-    %% HochschulIT-Subgraph (nur für Dezernatsleitung und IT-Bereiche)
-    subgraph HochschulIT[" "]
-        direction LR
-        
-        %% SDIP als einzelner Knoten
-        SDIP["Stabsstelle Digitale Innovation & Prozessmanagement"]:::ebene2
-        
-        %% SDIP Untereinheiten außerhalb
-        PMO["Prozessmanagement (PMO)"]:::ebene3
-        DTO["Digitalsierung (DTO)"]:::ebene3
-        AIO["Künstliche Intelligenz (AIO)"]:::ebene3
-        
-        subgraph Dezernatsleitung["Leitung der Hochschul-IT"]
-            direction LR
-            Tech["Leitung Technik"]:::ebene3
-            Org["Leitung Verwaltung"]:::ebene3
+    %% Übergeordneter Kasten um SDIP und HochschulIT
+    subgraph IT_Organisation[" "]
+        %% SDIP in eigenem Kasten mit Kindern
+        subgraph SDIP_Bereich[" "]
+            SDIP["Stabsstelle Digitale Innovation<br/>& Prozessmanagement"]:::ebene3
+            PMO["Prozessmanagement (PMO)"]:::ebene4
+            DTO["Digitalisierung (DTO)"]:::ebene4
+            AIO["KI in der Verwaltung (AIO)"]:::ebene4
+            
+            %% SDIP Verbindungen innerhalb
+            SDIP --> |"umfasst"| PMO
+            SDIP --> |"umfasst"| DTO
+            SDIP --> |"umfasst"| AIO
         end
 
-        IT1["IT1: IT-Management &<br/>-Controlling"]:::ebene4
-        IT2["IT2: Infrastruktur und<br/>zentrale Dienste"]:::ebene4
-        IT3["IT3: Client-Management und<br/>Anwenderunterstützung"]:::ebene4
+        %% HochschulIT-Subgraph (nur für Dezernatsleitung und IT-Bereiche)
+        subgraph HochschulIT[" "]
+            direction LR
+            
+            subgraph Dezernatsleitung["Leitung der Hochschul-IT"]
+                direction LR
+                Tech["Leitung Technik"]:::ebene3
+                Org["Leitung Verwaltung"]:::ebene3
+            end
 
-        %% SDIP Verbindungen
-        SDIP --> |"umfasst"| PMO
-        SDIP --> |"umfasst"| DTO
-        SDIP --> |"umfasst"| AIO
+            IT1["IT1: IT-Management &<br/>-Controlling"]:::ebene4
+            IT2["IT2: Infrastruktur und<br/>zentrale Dienste"]:::ebene4
+            IT3["IT3: Client-Management und<br/>Anwenderunterstützung"]:::ebene4
 
-        Dezernatsleitung --> |"ist vorgesetzt"|IT1
-        Dezernatsleitung --> |"ist vorgesetzt"|IT2
-        Dezernatsleitung --> |"ist vorgesetzt"|IT3
+            Dezernatsleitung --> |"ist vorgesetzt"|IT1
+            Dezernatsleitung --> |"ist vorgesetzt"|IT2
+            Dezernatsleitung --> |"ist vorgesetzt"|IT3
+        end
     end
 
     
     %% Professionelle Farbdefinitionen für die hierarchischen Ebenen
+    classDef ebene0 fill:#E6F3FF,stroke:#B3D9FF,stroke-width:1px,color:#333333
     classDef ebene1 fill:#1A365D,stroke:#0A1A2F,stroke-width:1px,color:#FFFFFF,font-weight:bold
     classDef ebene2 fill:#2A4C7D,stroke:#1A365D,stroke-width:1px,color:#FFFFFF
     classDef ebene2_alt fill:#8B5A3C,stroke:#5D3A26,stroke-width:1px,color:#FFFFFF
@@ -104,3 +116,4 @@ flowchart TB
 
     style Org stroke-dasharray:3 3
     style Tech stroke-dasharray:3 3
+    style IT_Organisation stroke-dasharray:5 5

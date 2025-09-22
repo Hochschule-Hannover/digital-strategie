@@ -1,5 +1,21 @@
 # Organisation und Governance
 
+## übergeordneter Rahmen
+
+Die IT-Organisation der Hochschule Hannover ist in ein komplexes Netzwerk landesweiter und überregionaler Strukturen eingebettet, das die digitale Transformation des niedersächsischen Hochschulwesens koordiniert und unterstützt.
+
+![IT-Zusammenarbeit im niedersächsischen Wissenschaftssystem](images/20-niedersachsen.png)
+
+Auf hochschulpolitischer Ebene ist das Präsidium der HsH in der **Ständigen Kommission Digitalisierung** der Landeshochschulkonferenz vertreten. Diese Gremienarbeit gewährleistet, dass digitalisierungspolitische Entwicklungen frühzeitig erkannt und hochschulspezifische Perspektiven in die Landespolitik eingebracht werden.
+
+**Hochschule Digital Niedersachsen (HDN)** fungiert als zentrale Koordinationsstelle für die Digitalisierung aller niedersächsischen Hochschulen. Das Präsidium der HsH bringt hochschulspezifische Anforderungen und strategische Bedarfe in die HDN-Gremien ein und trägt damit zur landesweiten Abstimmung digitaler Initiativen bei. HDN koordiniert zudem die Steuerung von wissenschaftlichen Einrichtungen, die auch als IT-Dienstleister fungieren wie die **Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)** für alle Hochschulen des Landes und gewährleistet damit eine einheitliche und kosteneffiziente Bereitstellung hochschulübergreifender IT-Dienste.
+
+Der **Chief Information Officer (CIO)** der HsH ist aktiv im **Landesarbeitskreis Niedersachsen Informationstechnik/Hochschulrechenzentren (LANIT)** eingebunden, wo operative IT-Belange, technische Standards und Best Practices zwischen den Hochschulrechenzentren ausgetauscht werden. Diese Vernetzung ermöglicht es, von den Erfahrungen anderer Einrichtungen zu profitieren und gemeinsame Lösungsansätze zu entwickeln.
+
+Die **GWDG** erbringt als zentraler IT-Dienstleister spezialisierte Services für die HsH (z.B. die Academic Cloud), insbesondere in den Bereichen Hochleistungsrechnen, Datenmanagement und Cloud-Infrastrukturen. Diese Arbeitsteilung ermöglicht es der HsH, sich auf ihre kernspezifischen IT-Anforderungen zu konzentrieren, während hochspezialisierte Dienste extern bezogmen werden.
+
+Diese mehrstufige Einbindung in übergeordnete Strukturen stärkt die strategische Handlungsfähigkeit der HsH und ermöglicht eine effiziente Ressourcennutzung durch Synergieeffekte und gemeinsame Standards im niedersächsischen Hochschulraum.
+
 ## Überblick
 
 Die HsH implementiert eine IT-Organisation, die durch eine Governance-Struktur und klare Verantwortlichkeiten gekennzeichnet ist. Diese Organisation soll die Digitalisierung und IT als zentrale Gestaltungsinstrumente in allen Kernbereichen der Hochschule – Forschung, Lehre, Transfer, Weiterbildung und Verwaltung – verankern.
