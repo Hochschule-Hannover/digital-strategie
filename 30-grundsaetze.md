@@ -6,7 +6,7 @@ Zur systematischen und effizienten Steuerung der IT-Prozesse implementiert die H
 
 - **Planungsphase**: Die strategische Konzeption und Maßnahmenplanung erfolgt unter koordinierender Federführung des Dezernats IT-Management & -Controlling (IT1) eigenverantwortlich durch alle Organisationseinheiten. In dieser Phase werden Anforderungen analysiert, in den Gesamtkontext eingeordnet und priorisiert. Hier entstehen Rahmenkonzepte, Architekturvorgaben und Richtlinien, die als normative Grundlage für alle Entwicklungsvorhaben dienen.
 
-- **Entwicklungsphase**: Für die Realisierung komplexerer Vorhaben werden interdisziplinär besetzte, dezernatsübergreifende, eigenverantwortlich arbeitende Projektgruppen unter methodischer Anleitung des Dezernats Digitale Innovation und Projektmanagement (IT4) gebildet. Diese Projektgruppen verantworten die fachgerechte Konzeption, Umsetzung und Einführung neuer IT-Lösungen unter Berücksichtigung hochschulspezifischer Besonderheiten. Die temporäre Zusammenführung von Fachexpertise aus verschiedenen Organisationseinheiten erlaubt eine ganzheitliche Betrachtung bei gleichzeitiger Detailkompetenz.
+- **Entwicklungsphase**: Für die Realisierung komplexerer Vorhaben werden interdisziplinär besetzte, dezernatsübergreifende, eigenverantwortlich arbeitende Projektgruppen gebildet. Diese Projektgruppen verantworten die fachgerechte Konzeption, Umsetzung und Einführung neuer IT-Lösungen unter Berücksichtigung hochschulspezifischer Besonderheiten. Die temporäre Zusammenführung von Fachexpertise aus verschiedenen Organisationseinheiten erlaubt eine ganzheitliche Betrachtung bei gleichzeitiger Detailkompetenz.
 
 - **Betriebsphase**: Der dauerhaft stabile und sichere Betrieb der eingeführten IT-Lösungen wird durch die fachlich spezialisierten Organisationseinheiten – vorrangig IT-Infrastruktur und zentrale Dienste (IT2) sowie Client-Management und Anwenderunterstützung (IT3) – gewährleistet. Hier werden Betriebshandbücher geführt, Überwachungssysteme implementiert und standardisierte Prozesse für den laufenden Betrieb etabliert. Die klare Aufgabentrennung zwischen Systembetrieb und Anwenderbetreuung ermöglicht eine spezialisierte und zugleich ganzheitliche Betreuung aller IT-Dienste.
 
@@ -134,7 +134,7 @@ Die IT-Organisation der HsH fördert systematisch Innovation, um die Zukunftsfä
 - Systematischer Wissenstransfer zwischen Forschung und IT-Betrieb
 - Kontinuierliche Weiterbildung des IT-Personals zu neuen Technologien
 
-Das Dezernat Digitale Innovation und Projektmanagement (IT4) koordiniert diese Aktivitäten in enger Abstimmung mit dem CIO und den Fakultäten.
+Das Dezernat Digitale Innovation und Prozessmanagement (SDIP) koordiniert diese Aktivitäten in enger Abstimmung mit dem CIO und den Fakultäten.
 
 ### Künstliche Intelligenz als strategischer Enabler
 

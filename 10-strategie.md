@@ -148,10 +148,11 @@ Nutzung des Potenzials moderner KI-Technologien zur Optimierung von Prozessen un
 * Die HsH entwickelt **ethische KI-Leitlinien** für einen verantwortungsvollen Umgang mit künstlicher Intelligenz.
 * Die HsH fördert die **interdisziplinäre KI-Zusammenarbeit** und nutzt Synergien zwischen Forschung und Verwaltung.
 * Die HsH schafft Rahmenbedingungen für die **KI-Kompetenzbildung** bei Studierenden und Lehrenden.
+* Die HsH konkretisiert den Einsatz von **generativer KI** in Lehre, Forschung und Weiterbildung und Verwaltung in einer eigenen KI-Strategie.
 
-## #ITdoesmatter als Vorbild für die Umsetzung
+## Umsetzung in Projekten
 
-Das bereits im Jahr 2024 begonnene Programm #ITdoesmatter verfolgt das Ziel einer gemeinsamen IT der HsH. Das Fundament dieses Programms bildet eine Analyse unter Beteiligung aller Stakeholder aus zentralen Organisationseinheiten und den Fakultäten. Die gemeinsam entwickelten Handlungsfelder bilden den Rahmen für die Umsetzung in konkreten Projekten, die durch eine gemeinsame Lenkungsgruppe aus zwei Mitgliedern der Gruppe der Dekan:innen und zwei Mitgliedern des Präsidiums gesteuert werden. Die mit #ITdoesmatter entwickelte gemeinsame Steuerung und Umsetzung wird zu einem allgemeinen Vorgehen für die Umsetzung dieser Strategie ausgebaut.
+Das bereits im Jahr 2024 begonnene Programm #ITdoesmatter verfolgt das Ziel einer gemeinsamen IT der HsH. Das Fundament dieses Programms bildet eine Analyse unter Beteiligung aller Stakeholder aus zentralen Organisationseinheiten und den Fakultäten. Die gemeinsam entwickelten Handlungsfelder bilden den Rahmen für die Umsetzung in konkreten Projekten, die durch eine gemeinsame Lenkungsgruppe aus zwei Mitgliedern der Gruppe der Dekan:innen und zwei Mitgliedern des Präsidiums gesteuert werden. Die mit #ITdoesmatter entwickelte gemeinsame Steuerung und Umsetzung wird zu einem allgemeinen Vorgehen für die Umsetzung dieser Strategie ausgebaut, die primär in gemeinsamen Projekten realisiert wird.
 
 **Kernprinzipien**
 

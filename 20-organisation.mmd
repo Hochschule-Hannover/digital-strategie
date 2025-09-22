@@ -25,19 +25,22 @@ flowchart TB
     %% Präsidium direkt über CIO
     PraesidiumIT["Präsidium mit dem Ressort<br/>Digitalisierung und IT"]:::ebene1
 
-    %% SDIP (Stabsstelle) - zuerst definiert
-    SDIP["Stabsstelle Digitale Innovation<br/>& Prozessmanagement (SDIP)"]:::ebene2
+    %% SDIP (Stabsstelle) - zuerst definiert außerhalb
     
     %% CIO - nach SDIP definiert
-    CIO["Chief Information<br/>Officer (CIO)"]:::ebene2
+    CIO["Chief Information<br/>Officer"]:::ebene2
+    
+    %% Missing definitions
+    Digitalstrategie["Digitalstrategie"]:::ebene2_stab
+    DigitalBoard["Digital-Board"]:::ebene2_stab
     
     %% Digitalstrategie wird vom Präsidium entwickelt
     PraesidiumIT --> |"entwickelt"| Digitalstrategie
 
         %% Ebene 4 - Ausführende Ebene
-        FIOs["Faculty Information<br/>Officers (FIOs)"]:::ebene2
-        Massnahmenplan["Maßnahmenplan"]:::ebene2
-        Finanzplanung["IT-Finanzplanung"]:::ebene2
+        FIOs["Faculty Information<br/>Officers"]:::ebene1
+        Massnahmenplan["Maßnahmenplan"]:::ebene2_stab
+        Finanzplanung["IT-Finanzplanung"]:::ebene2_stab
 
         %% Verbindungen zu den spezifischen IT-Organisationseinheiten
         DigitalBoard --> |"besteht aus"| FIOs
@@ -45,7 +48,7 @@ flowchart TB
         FIOs --> |"repräsentieren"| Fakultaeten
         Massnahmenplan --> |"Grundlage für"| Finanzplanung
 
-    Fakultaeten["Fakultäten"]:::ebene2
+    Fakultaeten["Fakultäten"]:::ebene1
 
     %% Hierarchische Beziehungen
     %% CIO ist der SDIP vorgesetzt
@@ -60,6 +63,15 @@ flowchart TB
     %% HochschulIT-Subgraph (nur für Dezernatsleitung und IT-Bereiche)
     subgraph HochschulIT[" "]
         direction LR
+        
+        %% SDIP als einzelner Knoten
+        SDIP["Stabsstelle Digitale Innovation & Prozessmanagement"]:::ebene2
+        
+        %% SDIP Untereinheiten außerhalb
+        PMO["Prozessmanagement (PMO)"]:::ebene3
+        DTO["Digitalsierung (DTO)"]:::ebene3
+        AIO["Künstliche Intelligenz (AIO)"]:::ebene3
+        
         subgraph Dezernatsleitung["Leitung der Hochschul-IT"]
             direction LR
             Tech["Leitung Technik"]:::ebene3
@@ -70,6 +82,11 @@ flowchart TB
         IT2["IT2: Infrastruktur und<br/>zentrale Dienste"]:::ebene4
         IT3["IT3: Client-Management und<br/>Anwenderunterstützung"]:::ebene4
 
+        %% SDIP Verbindungen
+        SDIP --> |"umfasst"| PMO
+        SDIP --> |"umfasst"| DTO
+        SDIP --> |"umfasst"| AIO
+
         Dezernatsleitung --> |"ist vorgesetzt"|IT1
         Dezernatsleitung --> |"ist vorgesetzt"|IT2
         Dezernatsleitung --> |"ist vorgesetzt"|IT3
@@ -79,6 +96,7 @@ flowchart TB
     %% Professionelle Farbdefinitionen für die hierarchischen Ebenen
     classDef ebene1 fill:#1A365D,stroke:#0A1A2F,stroke-width:1px,color:#FFFFFF,font-weight:bold
     classDef ebene2 fill:#2A4C7D,stroke:#1A365D,stroke-width:1px,color:#FFFFFF
+    classDef ebene2_alt fill:#8B5A3C,stroke:#5D3A26,stroke-width:1px,color:#FFFFFF
     classDef ebene2_stab fill:#F8F9FA,stroke:#2A4C7D,stroke-width:1px,stroke-dasharray:5 5,color:#333333
     classDef ebene3 fill:#4A6EA8,stroke:#2A4C7D,stroke-width:1px,color:#FFFFFF
     classDef ebene4 fill:#7C98C9,stroke:#4A6EA8,stroke-width:1px,color:#333333
