@@ -1,7 +1,7 @@
 # AutoPandoc Makefile
 # (c) Fabian Schmieder - This is free software and licensed under GPL3 (https://www.gnu.org/licenses/gpl-3.0)
 # https://gist.github.com/metaneutrons/8816ff49bbce5047a5308b3cf6fbb603
-# Version: 1.4.2
+# Version: 1.4.3
 
 # Project configuration
 PROJECT_NAME ?= $(shell basename $(CURDIR))
@@ -357,7 +357,7 @@ $(IMAGES_DIR)/%.pdf: %.mmd | $(IMAGES_DIR)
 
 $(IMAGES_DIR)/%.png: %.mmd | $(IMAGES_DIR)
 	$(call log_info,🎨 Converting $< to PNG)
-	@npx -p @mermaid-js/mermaid-cli mmdc -i $< -o $@ -t neutral -b white
+	@npx -p @mermaid-js/mermaid-cli mmdc -i $< -o $@ -t neutral -b white -s 3
 
 $(IMAGES_DIR)/%.svg: %.mmd | $(IMAGES_DIR)
 	$(call log_info,🎨 Converting $< to SVG)
