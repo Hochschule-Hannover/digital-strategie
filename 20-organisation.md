@@ -4,7 +4,7 @@
 
 Die IT-Organisation der Hochschule Hannover ist in ein komplexes Netzwerk landesweiter und überregionaler Strukturen eingebettet, das die digitale Transformation des niedersächsischen Hochschulwesens koordiniert und unterstützt.
 
-![IT-Zusammenarbeit im niedersächsischen Wissenschaftssystem](images/20-niedersachsen.png)
+![IT-Zusammenarbeit im niedersächsischen Wissenschaftssystem](images/20-niedersachsen.png){ width=60% }
 
 Auf hochschulpolitischer Ebene ist das Präsidium der HsH in der **Ständigen Kommission Digitalisierung** der Landeshochschulkonferenz vertreten. Diese Gremienarbeit gewährleistet, dass digitalisierungspolitische Entwicklungen frühzeitig erkannt und hochschulspezifische Perspektiven in die Landespolitik eingebracht werden.
 
