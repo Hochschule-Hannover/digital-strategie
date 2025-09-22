@@ -21,7 +21,7 @@ Reduktion von Komplexität, Fokussierung der IT-Kompetenzen und Vermeidung von �
 * **Commodity First**: Die HsH bevorzugt am Markt etablierte Lösungen gegenüber Eigenentwicklungen.
 * **Cloud First**: Die HsH priorisiert extern betriebene, zentralisierte Cloud-Services, um Flexibilität und Skalierbarkeit zu gewährleisten.
 
-### Verbesserung der Kern- und Unterstützungsprozesse 
+### Verbesserung der Kern- und Unterstützungsprozesse
 
 **Strategisches Ziel**  
 Weitgehende Digitalisierung der Kernprozesse in Lehre, Forschung, Transfer und Weiterbildung sowie der Unterstützungsprozesse in Verwaltung und Organisation, um Mehrwerte für alle Mitglieder und Angehörigen der HsH zu schaffen.
@@ -149,6 +149,123 @@ Nutzung des Potenzials moderner KI-Technologien zur Optimierung von Prozessen un
 * Die HsH fördert die **interdisziplinäre KI-Zusammenarbeit** und nutzt Synergien zwischen Forschung und Verwaltung.
 * Die HsH schafft Rahmenbedingungen für die **KI-Kompetenzbildung** bei Studierenden und Lehrenden.
 * Die HsH konkretisiert den Einsatz von **generativer KI** in Lehre, Forschung und Weiterbildung und Verwaltung in einer eigenen KI-Strategie.
+
+### Change Management
+
+#### Nutzerakzeptanz und Adoptionsstrategien
+
+**Strategisches Ziel**  
+Sicherstellung einer breiten Akzeptanz und erfolgreichen Adoption digitaler Lösungen durch alle Hochschulangehörigen mittels strukturierter Change-Management-Prozesse.
+
+**Strategische Ansätze**
+
+* Die HsH etabliert **Multiplikatoren** für digitale Innovationen in jeder Fakultät und zentralen Einrichtung.
+* Die HsH implementiert ein **mehrstufiges Adoptionsmodell** (Early Adopters → Pilotgruppen → Vollausrollung) für neue digitale Dienste.
+* Die HsH führt **regelmäßige Nutzerumfragen** zur Identifikation von Adoptionsbarrieren und Verbesserungspotenzialen durch.
+* Die HsH entwickelt **zielgruppenspezifische Onboarding-Programme** für verschiedene Nutzergruppen (Studierende, Lehrende, Verwaltung).
+* Die HsH schafft **Anreizsysteme** für die aktive Nutzung digitaler Lösungen und dokumentiert Best Practices.
+
+#### Qualifizierungs- und Schulungsprogramme
+
+**Strategisches Ziel**  
+Aufbau umfassender digitaler Kompetenzen bei allen Hochschulangehörigen durch systematische Qualifizierungsmaßnahmen.
+
+**Strategische Ansätze**
+
+* Die HsH implementiert **Peer-to-Peer-Learning-Programme** und fakultätsübergreifende Erfahrungsaustausche.
+* Die HsH stellt **E-Learning-Module** für Grundkompetenzen und **Hands-on-Workshops** für spezialisierte Anwendungen.
+* Die HsH schafft **Zeitkontingente** für Weiterbildung und integriert digitale Kompetenzentwicklung in Personalentwicklungsgespräche.
+
+#### Kommunikationsstrategie für die Transformation
+
+**Strategisches Ziel**  
+Transparente, kontinuierliche und zielgruppengerechte Kommunikation über Ziele, Fortschritte und Nutzen der digitalen Transformation.
+
+**Strategische Ansätze**
+
+* Die HsH entwickelt eine **mehrkanalige Kommunikationsstrategie**.
+* Die HsH etabliert **regelmäßige Transformation Updates** mit konkreten Erfolgsgeschichten und Meilensteinen.
+* Die HsH führt **Town Hall Meetings** und **digitale Sprechstunden** für direkten Dialog zwischen Führung und Nutzer:innen durch.
+* Die HsH implementiert **Feedback-Schleifen** und macht Anregungen aus der Hochschulgemeinschaft sichtbar.
+* Die HsH nutzt **Storytelling-Ansätze** zur Vermittlung der Transformationsvision und des persönlichen Nutzens.
+
+### Risikomanagement
+
+#### Risikobewertung für die digitale Transformation
+
+**Strategisches Ziel**  
+Systematische Identifikation, Bewertung und Steuerung von Risiken der digitalen Transformation zur Sicherstellung einer erfolgreichen und nachhaltigen Umsetzung.
+
+**Strategische Ansätze**
+
+* Die HsH etabliert ein **Digital Transformation Risk Register** mit kategorisierten Risiken (technisch, organisatorisch, rechtlich, finanziell).
+* Die HsH definiert **Risikotoleranzen** für verschiedene Transformationsbereiche und Eskalationsschwellen.
+* Die HsH entwickelt **Frühwarnindikatoren** für kritische Risikoszenarien und automatisierte Monitoring-Systeme.
+* Die HsH führt **Risiko-Workshops** mit allen Stakeholdern durch und dokumentiert Lessons Learned.
+
+#### Notfallpläne für Implementierungsfehler
+
+**Strategisches Ziel**  
+Vorbereitung auf Implementierungsfehler durch strukturierte Notfallpläne zur schnellen Wiederherstellung des Betriebs und Minimierung von Ausfallzeiten.
+
+**Strategische Ansätze**
+
+* Die HsH entwickelt **Rollback-Strategien** für alle kritischen Systemimplementierungen mit definierten Auslösern.
+* Die HsH etabliert **Incident Response Teams** mit klaren Rollen, Verantwortlichkeiten und Eskalationswegen.
+* Die HsH implementiert **Parallel-Betrieb-Szenarien** für geschäftskritische Systeme während Migrationsphasen.
+* Die HsH führt **regelmäßige Disaster Recovery Übungen** durch und testet Notfallprozeduren.
+* Die HsH dokumentiert **Post-Incident-Reviews** und integriert Erkenntnisse in zukünftige Implementierungsstrategien.
+
+#### Vendor Lock-in Vermeidungsstrategien
+
+**Strategisches Ziel**  
+Minimierung von Abhängigkeiten zu einzelnen Anbietern durch strategische Diversifikation und Ausstiegsoptionen.
+
+**Strategische Ansätze**
+
+* Die HsH implementiert **Multi-Vendor-Strategien** für kritische IT-Services und vermeidet Monokultur-Ansätze.
+* Die HsH definiert **Datenportabilität** als Mindestanforderung bei allen Vertragsverhandlungen.
+* Die HsH etabliert **standardisierte APIs** und offene Datenformate zur Sicherstellung der Interoperabilität.
+* Die HsH führt **regelmäßige Vendor Assessments** durch und entwickelt alternative Sourcing-Optionen.
+* Die HsH entwickelt bei der jeder Einführung eines Systems **Exit-Strategien** und dokumentiert Migrationspfade für alle kritischen Systeme.
+
+### Kompetenzen und Fähigkeiten
+
+#### Aufbau interner KI- und Digitalkompetenzen
+
+**Strategisches Ziel**  
+Entwicklung einer hochschulinternen Expertise für KI und digitale Technologien zur Reduktion externer Abhängigkeiten und Stärkung der Innovationsfähigkeit.
+
+**Strategische Ansätze**
+
+* Die HsH etabliert **KI-Fellowships** für Mitarbeitende zur Vertiefung von KI-Kompetenzen in Kooperation mit Forschungsgruppen
+* Die HsH implementiert **Cross-Training-Programme** zwischen IT-Personal und Fachbereichen für domänenspezifische Digitalkompetenz
+* Die HsH schafft **Innovation Labs** für experimentelle KI-Projekte und Proof-of-Concept-Entwicklungen
+* Die HsH fördert **Zertifizierungsprogramme** für Cloud-Technologien, Data Science und KI-Frameworks
+* Die HsH etabliert **Kooperationen mit Hochschulen** für gemeinsame Kompetenzentwicklung und Wissensaustausch
+
+#### Kompetenzentwicklungs-Roadmap
+
+**Strategisches Ziel**  
+Systematische und vorausschauende Entwicklung digitaler Kompetenzen entsprechend der strategischen Anforderungen und technologischen Trends.
+
+**Strategische Ansätze**
+
+* Die HsH entwickelt **Kompetenz-Landkarten** für alle IT-Rollen mit aktuellen und zukünftigen Anforderungsprofilen.
+* Die HsH implementiert **Individual Development Plans** mit konkreten Lernzielen und Zeitplänen für alle IT-Mitarbeitenden.
+* Die HsH etabliert **Mentoring-Programme** zwischen erfahrenen und neuen Mitarbeitenden für Wissenstransfer.
+* Die HsH schafft **Rotationsprogramme** zwischen verschiedenen IT-Bereichen.
+
+#### Nachfolgeplanung für IT-Schlüsselpositionen
+
+**Strategisches Ziel**  
+Sicherstellung der Kontinuität kritischer IT-Funktionen durch systematische Nachfolgeplanung und Wissensmanagement.
+
+**Strategische Ansätze**
+
+* Die HsH identifiziert **kritische IT-Rollen** und entwickelt für jede Position mindestens zwei potenzielle Nachfolger:innen.
+* Die HsH implementiert **Wissenstransfer-Protokolle** für alle Schlüsselpositionen mit strukturierter Dokumentation.
+* Die HsH etabliert **Job Shadowing** und **Vertretungsregelungen** zur praktischen Vorbereitung von Nachfolger:innen.
 
 ## Umsetzung in Projekten
 
