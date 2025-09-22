@@ -1,0 +1,37 @@
+# Ausgabedateien
+*.pdf
+*.html
+*.epub
+*.docx
+
+# Fehlerdateien
+*.log
+*.err
+
+# LaTeX-Zwischendateien
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
+
+# Temporäre Dateien
+*~
+*.swp
+.DS_Store
+
+# Generierte Präsentationen ignorieren
+presentations/
+
+Thumbs.db
+output/
+*.pdf
+templates/eisvogel.latex
+images/
+
