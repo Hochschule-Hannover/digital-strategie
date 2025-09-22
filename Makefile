@@ -1,7 +1,7 @@
-# AutoPandoc Makefile - Consolidated Version
+# AutoPandoc Makefile
 # (c) Fabian Schmieder - This is free software and licensed under GPL3 (https://www.gnu.org/licenses/gpl-3.0)
 # https://gist.github.com/metaneutrons/8816ff49bbce5047a5308b3cf6fbb603
-# Version: 1.4.1
+# Version: 1.4.2
 
 # Project configuration
 PROJECT_NAME ?= $(shell basename $(CURDIR))
@@ -88,7 +88,7 @@ update:
 	if [ "$$LOCAL_VERSION" = "$$REMOTE_VERSION" ]; then \
 		echo "✅ Makefile is already up to date (v$$LOCAL_VERSION)"; \
 	elif [ "$$LOCAL_VERSION" != "unknown" ] && printf '%s\n%s\n' "$$REMOTE_VERSION" "$$LOCAL_VERSION" | sort -V | head -1 | grep -q "$$REMOTE_VERSION"; then \
-		echo "⚠️  Remote version ($$REMOTE_VERSION) is older than local ($$LOCAL_VERSION)"; \
+		echo "⚠️ Remote version ($$REMOTE_VERSION) is older than local ($$LOCAL_VERSION)"; \
 		echo "❌ Refusing to downgrade. Use 'make update-force' to override."; \
 	else \
 		echo "🆕 New version available ($$LOCAL_VERSION → $$REMOTE_VERSION)"; \
@@ -104,7 +104,7 @@ update:
 			echo "✅ Installing updated Makefile"; \
 			mv Makefile.new Makefile; \
 			echo "🎉 AutoPandoc updated successfully to v$$REMOTE_VERSION!"; \
-			echo "ℹ️  Previous version saved as Makefile.backup"; \
+			echo "ℹ️ Previous version saved as Makefile.backup"; \
 		else \
 			echo "❌ Download failed or empty file"; \
 			rm -f Makefile.new; \
@@ -207,7 +207,7 @@ check-build-deps:
 		echo "🔵 mermaid filters: Not needed (no inline mermaid)"; \
 	fi; \
 	if grep -q "titlepage-background:" *.md 2>/dev/null; then \
-		printf "🖼️  inkscape (for PDF backgrounds): "; \
+		printf "🖼️ inkscape (for PDF backgrounds): "; \
 		if command -v inkscape >/dev/null 2>&1; then \
 			echo "🟢 Available"; \
 		else \
@@ -221,7 +221,7 @@ check-build-deps:
 		exit 1; \
 	elif [ $$MISSING_OPTIONAL -eq 1 ]; then \
 		echo ""; \
-		echo "⚠️  Some optional features may not work optimally."; \
+		echo "⚠️ Some optional features may not work optimally."; \
 	else \
 		echo "✅ All dependencies satisfied!"; \
 	fi
@@ -535,7 +535,7 @@ init: setup
 
 # Show README information
 readme:
-	@echo "    ██████╗ ██╗   ██╗████████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗  ██████╗"
+	@echo "    █████╗ ██╗   ██╗████████╗ ██████╗ ██████╗  █████╗ ███╗   ██╗██████╗  ██████╗  ██████╗"
 	@echo "   ██╔══██╗██║   ██║╚══██╔══╝██╔═══██╗██╔══██╗██╔══██╗████╗  ██║██╔══██╗██╔═══██╗██╔════╝"
 	@echo "   ███████║██║   ██║   ██║   ██║   ██║██████╔╝███████║██╔██╗ ██║██║  ██║██║   ██║██║"
 	@echo "   ██╔══██║██║   ██║   ██║   ██║   ██║██╔═══╝ ██╔══██║██║╚██╗██║██║  ██║██║   ██║██║"
