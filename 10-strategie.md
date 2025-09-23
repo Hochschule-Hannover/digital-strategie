@@ -7,7 +7,7 @@ Die Strategie folgt einem systematischen Aufbau: Zunächst werden mit „Cloud u
 
 Ziel dieser Strategie ist es, die Kernprozesse in Lehre, Forschung, Transfer und Weiterbildung nachhaltig zu unterstützen – sodass eine echte Digitalisierungsdividende erzielt und Mitarbeitende von Routineaufgaben entlastet werden. Durch den konsequenten Einsatz standardisierter, bewährter Lösungen („Commodity First“) und den primären Bezug von extern betriebenen Cloud-Services („Cloud First“) werden interne Ressourcen freigesetzt, die gezielt in den IT-Support und in die Optimierung kritischer Hochschulprozesse investiert werden können.
 
-Externe Dienste – wie die Academic Cloud der Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG), Microsoft 365 mit Teams oder zukünftig Dienste der Hochschule.Digital.Niedersachsen (HDN) – werden an einer Stelle gesteuert und überwacht. Gleichzeitig sollen Verwaltungsprozesse (Personal, Finanzen, Gebäudemanagement, akademische Angelegenheiten) stärker digital unterstützt und soweit wie möglich automatisiert werden, um die Arbeitsbelastung der Bediensteten zu reduzieren und Freiräume für Veränderungen zu schaffen.
+Externe Dienste – wie die Academic Cloud der *Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)*, Microsoft 365 mit Teams oder zukünftig Dienste der *Hochschule Digital Niedersachsen (HDN)* – werden an einer Stelle gesteuert und überwacht. Gleichzeitig sollen Verwaltungsprozesse (Personal, Finanzen, Gebäudemanagement, akademische Angelegenheiten) stärker digital unterstützt und soweit wie möglich automatisiert werden, um die Arbeitsbelastung der Bediensteten zu reduzieren und Freiräume für Veränderungen zu schaffen.
 
 ## Strategische Handlungsfelder
 
@@ -19,8 +19,8 @@ Reduktion von Komplexität, Fokussierung der IT-Kompetenzen und Vermeidung von �
 **Strategische Ansätze**
 
 * **Commodity First**: Die HsH bevorzugt am Markt etablierte Lösungen gegenüber Eigenentwicklungen.
-* **Cloud First**: Die HsH priorisiert extern betriebene, zentralisierte Cloud-Services, um Flexibilität und Skalierbarkeit zu gewährleisten.
-* Die HsH bringt sich intensiv in die **Hochschule.Digital.Niedersachsen (HDN)** ein, um von gemeinsamen Lösungen zu profitieren.
+* **Cloud First**: Die HsH bevorzugt extern betriebene Cloud-Services, um Flexibilität und Skalierbarkeit zu gewährleisten.
+* Die HsH bringt sich intensiv in die **Hochschule Digital Niedersachsen** ein, um von gemeinsamen Lösungen zu profitieren.
 * Die HsH etabliert ein **Providermanagement** zur Steuerung aller externen IT-Dienste und IT-Ressourcen.
 
 ### Verbesserung der Kern- und Unterstützungsprozesse
@@ -33,7 +33,7 @@ Weitgehende Digitalisierung der Kernprozesse in Lehre, Forschung, Transfer und W
 * Die HsH entwickelt und implementiert **digitale Workflows** für die Hochschullehre, die den gesamten Student Journey von der Erstinformation bis zum Alumni-Management unterstützen.
 * Die HsH stellt **forschungsunterstützende digitale Werkzeuge** für Datenmanagement, Kollaboration und Publikation bereit und baut spezialisierte Support-Strukturen für Forschungsgruppen auf.
 * Die HsH digitalisiert **Verwaltungsprozesse** in den Bereichen Personal, Finanzen, Gebäudemanagement und akademische Angelegenheiten, um Transparenz zu erhöhen und administrative Belastungen zu reduzieren.
-* Die HsH nutzt **datengestützte Entscheidungsprozesse** und etabliert ein durchgehendens Campus-Management-System als digitales Rückgrat der Hochschule.
+* Die HsH nutzt **datengestützte Entscheidungsprozesse** und etabliert ein durchgehendes Campus-Management-System als digitales Rückgrat der Hochschule.
 * Die HsH führt **kontinuierliche Bedarfsanalysen** durch, um Optimierungspotenziale in allen Prozessbereichen zu identifizieren und die Digitalisierungsdividende zu maximieren.
 
 ### Servicekultur und -organisation
@@ -145,10 +145,9 @@ Nutzung des Potenzials moderner KI-Technologien zur Optimierung von Prozessen un
 
 * Die HsH evaluiert und implementiert **zielgerichtete KI-Anwendungen** in geeigneten Einsatzbereichen wie administrative Prozesse, Studierendenberatung und Forschung.
 * Die HsH baut ein **KI-Kompetenzzentrum** auf, das Fakultäten und zentrale Organisationseinheiten berät und unterstützt.
-* Die HsH entwickelt **ethische KI-Leitlinien** für einen verantwortungsvollen Umgang mit künstlicher Intelligenz.
-* Die HsH fördert die **interdisziplinäre KI-Zusammenarbeit** und nutzt Synergien zwischen Forschung und Verwaltung.
+* Die HsH entwickelt **KI-Richtlinien** für einen verantwortungsvollen Umgang mit künstlicher Intelligenz.
 * Die HsH schafft Rahmenbedingungen für die **KI-Kompetenzbildung** bei Studierenden und Lehrenden.
-* Die HsH konkretisiert den Einsatz von **generativer KI** in Lehre, Forschung und Weiterbildung und Verwaltung in einer eigenen KI-Strategie.
+* Die HsH konkretisiert den Einsatz von **generativer KI** in Lehre, Forschung, Transfer, Weiterbildung und Verwaltung in einer eigenen KI-Strategie.
 
 ### Change Management
 
@@ -183,10 +182,8 @@ Systematische und vorausschauende Entwicklung digitaler Kompetenzen entsprechend
 
 **Strategische Ansätze**
 
-* Die HsH etabliert **KI-Fellowships** und Cross-Training-Programme zwischen IT-Personal und Fachbereichen sowie Innovation Labs für experimentelle KI-Projekte und Proof-of-Concept-Entwicklungen.
-* Die HsH entwickelt **Kompetenz-Landkarten** für alle IT-Rollen mit Individual Development Plans, Mentoring-Programmen und Rotationsprogrammen zwischen verschiedenen IT-Bereichen.
 * Die HsH fördert **Zertifizierungsprogramme** für Cloud-Technologien, Data Science und KI-Frameworks in Kooperation mit anderen Hochschulen für gemeinsame Kompetenzentwicklung.
-* Die HsH identifiziert **kritische IT-Rollen** und entwickelt für jede Position mindestens zwei potenzielle Nachfolger:innen mit strukturierten Wissenstransfer-Protokollen.
+* Die HsH identifiziert **kritische IT-Rollen** und entwickelt für jede Position potenzielle Nachfolger:innen mit strukturierten Wissenstransfer-Protokollen.
 * Die HsH implementiert **Job Shadowing** und Vertretungsregelungen zur praktischen Vorbereitung von Nachfolger:innen und Sicherstellung der Kontinuität.
 
 ## Umsetzung in Projekten
@@ -202,7 +199,7 @@ Das bereits im Jahr 2024 begonnene Programm #ITdoesmatter verfolgt das Ziel eine
 
 Die Umsetzungsprojekte werden von zentralen IT-Einheiten in Zusammenarbeit mit den Fakultäten und unter Leitung der verantwortlichen Vizepräsident:innen gesteuert. #ITdoesmatter bildet die methodische Brücke zwischen strategischen Zielen und operativer Umsetzung. Das etablierte Vorgehen wird auf die Umsetzung der Digitalstrategie übertragen. Die Veränderung findet vornehmlich in agilen Projekten statt, die durch ein gemeinsames Projektmanagement unterstützt und gesteuert werden.
 
-## Schlussbemerkung
+## Fazit
 
 Die Digitalstrategie der Hochschule Hannover 2025-2030 etabliert einen kohärenten und umfassenden Rahmen für die digitale Transformation der Hochschule, der technologische Innovation systematisch mit organisatorischem Wandel verbindet. Das Fundament bilden moderne **Cloud-Infrastrukturen** und standardisierte IT-Dienste nach dem **Commodity-First-Prinzip**, die Ressourcen für die substanzielle **Verbesserung der Kern- und Unterstützungsprozesse** freisetzen. Eine ausgeprägte **Servicekultur** mit klaren **Qualitätsstandards** gewährleistet dabei die Akzeptanz und Nachhaltigkeit der implementierten Lösungen.
 

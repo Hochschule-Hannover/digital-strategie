@@ -1,5 +1,7 @@
 # Organisation und Governance
 
+Zur Unterstützung der Digitalstrategie 2025-2030 hat die Hochschule Hannover (HsH) eine IT-Organisation mit klaren Verantwortlichkeiten und Strukturen entwickelt. Diese Organisation soll die Digitalisierung und IT als zentrale Gestaltungsinstrumente in allen Kernbereichen der Hochschule – Forschung, Lehre, Transfer, Weiterbildung und Verwaltung – verankern.
+
 ## übergeordneter Rahmen
 
 Die IT-Organisation der Hochschule Hannover ist in ein komplexes Netzwerk landesweiter und überregionaler Strukturen eingebettet, das die digitale Transformation des niedersächsischen Hochschulwesens koordiniert und unterstützt.

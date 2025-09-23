@@ -1,71 +1,25 @@
 # Executive Summary
 
-**Digitalstrategie 2025-2030**
+## Vision und strategischer Ansatz
 
-Die Digitalstrategie der HsH verfolgt einen integrierten Ansatz mit zwei komplementären Dimensionen:
+Die Digitalstrategie 2025-2030 der Hochschule Hannover (HsH) verfolgt einen integrierten Ansatz, der **Infrastrukturperspektive** und **Prozessperspektive** systematisch verbindet. Ziel ist eine grundlegende Transformation der digitalen Infrastruktur und Prozesse, um eine echte Digitalisierungsdividende zu erzielen und Mitarbeitende von Routineaufgaben zu entlasten. Die Strategie basiert auf den Leitprinzipien **"Commodity First"** und **"Cloud First"**, um interne Ressourcen für die Optimierung kritischer Hochschulprozesse freizusetzen.
 
-- **Infrastrukturperspektive**: Technische Architektur, operative Verlässlichkeit und Governance
-- **Prozessperspektive**: Transformative Neugestaltung aller Hochschulaktivitäten
+## Strategische Handlungsfelder
 
-**Strategische Handlungsfelder:**
+**Cloud und Commodity Services** bilden das technologische Fundament durch Nutzung etablierter Marktlösungen und extern betriebener Cloud-Services. Die intensive Einbindung in **Hochschule.Digital.Niedersachsen (HDN)** und ein strukturiertes **Providermanagement** gewährleisten wirtschaftliche und skalierbare IT-Dienste.
 
-1. **Cloud und Commodity Services**  
-   Die HsH priorisiert standardisierte Marktlösungen („Commodity First") und externe Cloud-Services („Cloud First"), um Komplexität zu reduzieren und personengebundene Wissensmonopole zu vermeiden.
+Die **Verbesserung der Kern- und Unterstützungsprozesse** steht im Zentrum der Transformation. Digitale Workflows unterstützen den gesamten Student Journey, forschungsunterstützende Werkzeuge optimieren wissenschaftliche Arbeitsprozesse, und die Digitalisierung von Verwaltungsprozessen erhöht Transparenz und reduziert administrative Belastungen.
 
-2. **Verbesserung der Kern- und Unterstützungsprozesse**  
-   Umfassende Digitalisierung aller Prozesse in Lehre, Forschung, Transfer und Verwaltung, inklusive digitaler Workflows für die Student Journey und forschungsunterstützender digitaler Werkzeuge.
+Eine ausgeprägte **Servicekultur** mit mehrkanaliger Erreichbarkeit und **Qualitätsstandards** nach internationalen Best Practices (ITIL, ISO 27001) sichern die Akzeptanz und Nachhaltigkeit. Ein integriertes Qualitätsmanagementsystem gewährleistet konsistente Servicequalität und Interoperabilität.
 
-3. **Servicekultur und Qualitätsmanagement**  
-   Etablierung einer nutzerorientierten IT-Serviceorganisation mit definierten Service-Levels, mehrkanaliger Erreichbarkeit und systematischem Qualitätsmanagement nach internationalen Standards.
+**Digital-Governance-Strukturen** balancieren fachliche Autonomie mit hochschulweiter Koordination. Ein strukturierter IT-Planungszyklus, transparente Entscheidungskriterien und ein Digital-Governance-Gremium sichern partizipative Steuerung. **Compliance-Management** gewährleistet die Einhaltung rechtlicher Anforderungen, insbesondere der Landeshaushaltsordnung.
 
-4. **Digital-Governance und Compliance**  
-   Schaffung einer Governance-Struktur, die Fakultätsautonomie mit hochschulweiter Koordination verbindet, sowie Implementierung eines strukturierten IT-Compliancemanagements zur Erfüllung rechtlicher Anforderungen.
+**Automatisierung** durch Identity and Access Management, DevOps-Methoden und Workflow-Automatisierung steigert Effizienz und Qualität. **Digitale Sicherheit und Resilienz** durch Business Continuity Management, redundante Infrastrukturen und zentrales Sicherheitsmonitoring gewährleisten Betriebskontinuität. **Datenschutz und Informationssicherheit** implementieren Security und Privacy by Design als Grundprinzipien.
 
-5. **Sicherheit, Datenschutz und Automatisierung**  
-   Aufbau resilienter Infrastrukturen, umfassendes Identity and Access Management sowie Workflow-Automatisierung für administrative Prozesse.
+**Künstliche Intelligenz** wird durch ein KI-Kompetenzzentrum, ethische Leitlinien und interdisziplinäre Zusammenarbeit strategisch in Lehre, Forschung und Verwaltung integriert. Eine eigenständige KI-Strategie konkretisiert den Einsatz generativer KI.
 
-6. **Künstliche Intelligenz**  
-   Strategische Nutzung von KI zur Prozessoptimierung und Unterstützung der Kernaufgaben, inklusive Aufbau eines KI-Kompetenzzentrums und Entwicklung ethischer KI-Leitlinien.
+**Change Management** mit strukturierten Adoptionsstrategien, Multiplikatoren und zielgruppenspezifischen Qualifizierungsprogrammen sichert breite Akzeptanz. **Risikomanagement** durch ein Digital Transformation Risk Register, Rollback-Strategien und Multi-Vendor-Ansätze minimiert Transformationsrisiken. **Kompetenzentwicklung** durch KI-Fellowships, Cross-Training-Programme und systematische Nachfolgeplanung stärkt interne Expertise und reduziert externe Abhängigkeiten.
 
-**IT-Organisation und Governance**
+## Fazit
 
-Die IT-Organisation der HsH folgt einem dualen Prinzip, das zentrale Steuerung mit dezentraler Bedarfsorientierung verbindet:
-
-- **Strategische Führungsebene**  
-  Das Präsidium trägt die strategische Gesamtverantwortung und bildet ein Ressort für Digitalisierung und IT als Querschnittsaufgabe. Die operativen Aufgaben werden an den **Chief Information Officer (CIO)** delegiert, der als hauptamtliche Funktion die Schnittstelle zwischen Strategie und Umsetzung bildet. Das für Digitalisierung und IT zuständige Präsidiumsmitglied ist zusammen mit dem CIO für die Fortschreibung der Digitalstrategie verantwortlich.
-
-- **Governance-Struktur**  
-  Das **Digital-Board** unter Leitung des CIO vereint die **Faculty Information Officers (FIOs)** aller Fakultäten und dient als zentrales partizipatives Gremium für IT-Belange. Es erarbeitet den jährlichen Maßnahmenplan als verbindliche Grundlage für die IT-Finanzplanung.
-
-- **Operative Umsetzung**  
-  Vier spezialisierte IT-Organisationseinheiten mit klaren Aufgabenprofilen:
-  * IT1: IT-Management & -Controlling (administrative und wirtschaftliche Aspekte)
-  * IT2: IT-Infrastruktur und zentrale Dienste (technische Basis und Betrieb)
-  * IT3: Client-Management und Anwenderunterstützung (direkte Nutzerschnittstelle)
-  * IT4: Digitale Innovation und Projektmanagement (strategische Transformation)
-
-- **Prozessmodell**  
-  Das Plan-Build-Run-Modell strukturiert die IT-Prozesse: Strategische Planung unter Federführung von IT1, Projektentwicklung durch interdisziplinäre Teams unter Federführung des Projektmanagements von IT4 und stabiler Betrieb durch IT2 und IT3. Dieses Modell fördert spezialisierte Expertise bei gleichzeitiger übergreifender Koordination.
-
-**Grundsätze des IT-Betriebs**
-
-Die IT-Organisation arbeitet nach folgenden Grundsätzen:
-
-- **Ressourcenmanagement**: Systematische Allokation auf Basis des jährlichen Maßnahmenplans
-- **Wirtschaftlichkeit**: Kostencontrolling, Lizenzmanagement und standardisierte Wirtschaftlichkeitsbetrachtungen
-- **Serviceorientierung**: Nutzerzentrierung durch definierte Service-Levels und transparente Prozesse
-- **Qualitätssicherung**: Integriertes System mit definierten Kriterien, Kennzahlen und kontinuierlichen Verbesserungsprozessen
-- **Sicherheit und Resilienz**: Business Continuity Management und durchdachtes Krisenmanagement
-- **Innovationsfähigkeit**: Technology-Scouting, Living Labs und systematische KI-Integration
-
-**Umsetzung und Erfolgsfaktoren**
-
-Die Umsetzung der Digitalstrategie folgt dem Vorbild des partizipativen Programms **#ITdoesmatter**, das die aktive Einbindung aller Fakultäten und zentralen Organisationseinheiten sicherstellt. Kritische Erfolgsfaktoren sind:
-
-- **Strategische Integration** in die Gesamtstrategie der Hochschule
-- **Klare Governance** mit eindeutigen Mandaten und Entscheidungsprozessen
-- **Partizipative Kultur** unter Einbindung aller Statusgruppen
-- **Angemessene Ressourcenausstattung** sowohl personell als auch finanziell
-- **Kontinuierliche Anpassungsfähigkeit** an technologische und organisatorische Veränderungen
-
-Die HsH versteht Digitalisierung nicht als Selbstzweck, sondern als strategisches Instrument zur Unterstützung ihrer Kernaufgaben. Die digitale Transformation wird als gemeinschaftliches Projekt aller Hochschulbereiche gestaltet, bei dem technologische Entwicklung und organisatorischer Wandel Hand in Hand gehen.
+Die Digitalstrategie positioniert die Hochschule Hannover als zukunftsfähigen Akteur im digitalen Hochschulraum. Durch die systematische Verbindung von Technologie, organisatorischem Wandel und menschenzentrierten Veränderungsprozessen entsteht ein kohärenter Rahmen für nachhaltige digitale Transformation. Die Umsetzung erfolgt durch partizipative Steuerung und agile Projekte, die die methodische Brücke zwischen strategischen Zielen und operativer Umsetzung bilden.
