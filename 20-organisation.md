@@ -159,41 +159,13 @@ Die Stabsstelle Digitale Innovation und Prozessmanagement (SDIP) unterstützt di
 
 Die Stabsstelle ist dem CIO unterstellt und gewährleistet eine enge Verzahnung mit der operativen IT-Steuerung.
 
-Die Stabsstelle gliedert sich in die Verantwortungsbereiche des Prozess-Management-Officers (PMO), des Digital-Transformation-Officers (DTO) und KI in der Verwaltung (Artifical-Intelligence Officer, AIO).
+Die Stabsstelle gliedert sich in die Verantwortungsbereiche Prozessoptimierung, Digitalisierung und KI in der Verwaltung.
 
-#### Prozess-Management-Officer (PMO)
+**Prozessoptimierung**
+Im Bereich der Prozessoptimierung entwickelt und implementiert die Stabsstelle ein hochschulweites Rahmenwerk für das Prozessmanagement und koordiniert methodisch die entsprechenden Aktivitäten. Sie begleitet und coacht die Organisationseinheiten bei Prozessanalysen, -dokumentationen und -optimierungen und baut dabei ein zentrales Prozessregister auf.
 
-Der Prozess-Management-Officer (PMO) ist zuständig für die Etablierung, Koordination und Weiterentwicklung des Prozessmanagements innerhalb der gesamten Hochschule, mit einem initialen Fokus auf die IT-Organisation. Zu den Aufgaben gehören:
+**Digitalisierung**
+Die strategische Begleitung der digitalen Transformation erfolgt durch die Identifikation relevanter Trends und Technologien sowie die Entwicklung einer hochschulweiten digitalen Transformations-Roadmap. Die Stabsstelle berät strategisch in Fragen der digitalen Transformation und initiiert sowie koordiniert strategische Digitalisierungsprojekte.
 
-- Entwicklung und Implementierung eines hochschulweiten Rahmenwerks für das Prozessmanagement (Standards, Methoden, Werkzeuge)
-- Zentrale Koordination und methodische Unterstützung von Prozessmanagement-Aktivitäten
-- Veranlassung, Begleitung und Coaching bei Prozessanalysen, -dokumentationen und -optimierungen in den Organisationseinheiten
-- Beratung und Schulung der OE-Leitungen und Prozessverantwortlichen bei der eigenständigen Prozessoptimierung und Übernahme der Ergebnisverantwortung
-- Aufbau und Pflege eines zentralen Prozessregisters
-- Monitoring und Reporting des Fortschritts von Prozessoptimierungsmaßnahmen und der Prozessmanagement-Reife
-- Förderung einer prozessorientierten Unternehmenskultur
-
-Durch diese Stabsstelle wird eine fokussierte und methodisch fundierte Herangehensweise an digitale Innovationen und die kontinuierliche Verbesserung von Prozessen sichergestellt, welche die Agilität und Effizienz der Hochschule nachhaltig steigert.
-
-#### Digital-Transformation-Officer (DTO)
-
-Der Digital-Transformation-Officer (DTO) ist verantwortlich für die strategische Planung und Begleitung von Digitalisierungsprojekten und der digitalen Transformation innerhalb der gesamten Hochschule. Zu den Aufgaben gehören:
-
-- Identifikation von übergeordneten Trends und Technologien zur Unterstützung der digitalen Transformation der HsH
-- Entwicklung und Fortschreibung einer hochschulweiten digitalen Transformations-Roadmap in Abstimmung mit dem CIO, dem Präsidium und den Organisationseinheiten
-- Strategische Beratung der Hochschulleitung und der Organisationseinheiten und Fakultäten in Fragen der digitalen Transformation
-- Initiierung und Koordination von strategischen, hochschulweiten Digitalisierungsprojekten und -initiativen
-- Monitoring und Reporting des Fortschritts von strategischen Digitalisierungsmaßnahmen auf Hochschulebene
-- Förderung einer Kultur der digitalen Innovation und des Wandels
-
-#### Artificial-Intelligence-Officer (AIO)
-
-Der Artificial-Intelligence-Officer (AIO) ist verantwortlich für die strategische Planung und Begleitung der Einführung von KI-Anwendungen in der Hochschulverwaltung. Zu den Aufgaben gehören:
-
-- Identifikation und Bewertung von KI-Anwendungsmöglichkeiten zur Prozessoptimierung in der Verwaltung
-- Koordination und Begleitung von KI-Pilotprojekten und deren Überführung in den Regelbetrieb
-- Aufbau und Pflege von KI-Richtlinien und Compliance-Standards für den Verwaltungsbereich
-- Beratung der Organisationseinheiten bei der Implementierung von KI-Lösungen
-- Monitoring und Evaluation der Wirksamkeit eingesetzter KI-Systeme
-- Vernetzung mit externen KI-Initiativen und Forschungsgruppen zur Förderung des Wissenstransfers
-- Förderung einer Kultur der Akzeptanz und des verantwortungsvollen Umgangs mit KI-Technologien in der Verwaltung
+**KI in der Verwaltung**
+Für den Einsatz künstlicher Intelligenz in der Verwaltung identifiziert und bewertet die Stabsstelle KI-Anwendungsmöglichkeiten zur Prozessoptimierung und koordiniert entsprechende Pilotprojekte. Sie entwickelt KI-Richtlinien und Compliance-Standards und berät die Organisationseinheiten bei der Implementierung von KI-Lösungen.
