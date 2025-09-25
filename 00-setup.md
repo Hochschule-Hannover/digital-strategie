@@ -29,7 +29,7 @@ toc-depth: 3
 # Document Class and Layout
 # Options: article, book, report, scrartcl, scrbook, scrreprt
 documentclass: "book"
-classoption: ["11pt", "a4paper"]
+classoption: ["11pt", "a4paper", "oneside"]
 # geometry: ["margin=2.5cm"]
 # fontsize: "11pt"
 mainfont: "FF Unit Pro Light"

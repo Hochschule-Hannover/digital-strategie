@@ -22,7 +22,7 @@ flowchart BT
     linkStyle default stroke:#555555,stroke-width:1.5px,stroke-dasharray: 3 3
     
     %% Externe Organisationen
-    HDN["Hochschule Digital<br/>Niedersachsen (HDN)"]:::ebene0
+    HdN["Hochschule Digital<br/>Niedersachsen (HdN)"]:::ebene0
     LANIT["Landesarbeitskreis Niedersachsen Informationstechnik / Hochschulrechenzentren (LANIT)"]:::ebene0
     GWDG["Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)"]:::ebene0
     
@@ -36,12 +36,12 @@ flowchart BT
     end
     
     %% Verbindungen
-    Praesidium --> |"bringt Anforderungen ein"| HDN
+    Praesidium --> |"bringt Anforderungen ein"| HdN
     CIO --> |"bringt Anforderungen ein"| LANIT
     Praesidium --> |"ist vorgesetzt"| CIO
     GWDG --> |"erbringt Leistungen an"| HsH
     Praesidium --> |"wird vertreten durch Präsident"| SKD
-    HDN --> |"steuert für alle Hochschulen"| GWDG
+    HdN --> |"steuert für alle Hochschulen"| GWDG
     
     %% Farbdefinitionen
     classDef ebene0 fill:#E6F3FF,stroke:#B3D9FF,stroke-width:1px,color:#333333

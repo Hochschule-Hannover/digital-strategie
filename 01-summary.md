@@ -6,7 +6,7 @@ Die Digitalstrategie 2025-2030 der Hochschule Hannover (HsH) verfolgt einen inte
 
 ## Strategische Handlungsfelder
 
-**Cloud und Commodity Services** bilden das technologische Fundament durch Nutzung etablierter Marktlösungen und extern betriebener Cloud-Services. Die intensive Einbindung in **Hochschule.Digital.Niedersachsen (HDN)** und ein strukturiertes **Providermanagement** gewährleisten wirtschaftliche und skalierbare IT-Dienste.
+**Cloud und Commodity Services** bilden das technologische Fundament durch Nutzung etablierter Marktlösungen und extern betriebener Cloud-Services. Die intensive Einbindung in **Hochschule.Digital.Niedersachsen (HdN)** und ein strukturiertes **Providermanagement** gewährleisten wirtschaftliche und skalierbare IT-Dienste.
 
 Die **Verbesserung der Kern- und Unterstützungsprozesse** steht im Zentrum der Transformation. Digitale Workflows unterstützen den gesamten Student Journey, forschungsunterstützende Werkzeuge optimieren wissenschaftliche Arbeitsprozesse, und die Digitalisierung von Verwaltungsprozessen erhöht Transparenz und reduziert administrative Belastungen.
 

@@ -7,7 +7,7 @@ Die Strategie folgt einem systematischen Aufbau: Zunächst werden mit „Cloud u
 
 Ziel dieser Strategie ist es, die Kernprozesse in Lehre, Forschung, Transfer und Weiterbildung nachhaltig zu unterstützen – sodass eine echte Digitalisierungsdividende erzielt und Mitarbeitende von Routineaufgaben entlastet werden. Durch den konsequenten Einsatz standardisierter, bewährter Lösungen („Commodity First“) und den primären Bezug von extern betriebenen Cloud-Services („Cloud First“) werden interne Ressourcen freigesetzt, die gezielt in den IT-Support und in die Optimierung kritischer Hochschulprozesse investiert werden können.
 
-Externe Dienste – wie die Academic Cloud der *Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)*, Microsoft 365 mit Teams oder zukünftig Dienste der *Hochschule Digital Niedersachsen (HDN)* – werden an einer Stelle gesteuert und überwacht. Gleichzeitig sollen Verwaltungsprozesse (Personal, Finanzen, Gebäudemanagement, akademische Angelegenheiten) stärker digital unterstützt und soweit wie möglich automatisiert werden, um die Arbeitsbelastung der Bediensteten zu reduzieren und Freiräume für Veränderungen zu schaffen.
+Externe Dienste – wie die Academic Cloud der *Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG)*, Microsoft 365 mit Teams oder zukünftig Dienste der *Hochschule Digital Niedersachsen (HdN)* – werden an einer Stelle gesteuert und überwacht. Gleichzeitig sollen Verwaltungsprozesse (Personal, Finanzen, Gebäudemanagement, akademische Angelegenheiten) stärker digital unterstützt und soweit wie möglich automatisiert werden, um die Arbeitsbelastung der Bediensteten zu reduzieren und Freiräume für Veränderungen zu schaffen.
 
 ## Strategische Handlungsfelder
 

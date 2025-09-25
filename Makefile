@@ -159,7 +159,7 @@ check-build-deps:
 			opensuse*) INSTALL_CMD="sudo zypper install pandoc texlive-xetex";; \
 		esac; \
 	elif command -v brew >/dev/null 2>&1; then \
-		INSTALL_CMD="brew install pandoc && brew install --cask mactex"; \
+		INSTALL_CMD="brew install pandoc && brew install --cask mactex (or download from https://www.tug.org/mactex/mactex-download.html)"; \
 	else \
 		INSTALL_CMD="Install pandoc and xelatex via your package manager"; \
 	fi; \

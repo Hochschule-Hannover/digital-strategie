@@ -10,11 +10,11 @@ Die IT-Organisation der Hochschule Hannover ist in ein komplexes Netzwerk landes
 
 Auf hochschulpolitischer Ebene ist das Präsidium der HsH in der **Ständigen Kommission Digitalisierung** der Landeshochschulkonferenz vertreten. Diese Gremienarbeit gewährleistet, dass digitalisierungspolitische Entwicklungen frühzeitig erkannt und hochschulspezifische Perspektiven in die Landespolitik eingebracht werden.
 
-**Hochschule Digital Niedersachsen (HDN)** fungiert als zentrale Koordinationsstelle für die Digitalisierung aller niedersächsischen Hochschulen. Das Präsidium der HsH bringt hochschulspezifische Anforderungen und strategische Bedarfe in die HDN-Gremien ein und trägt damit zur landesweiten Abstimmung digitaler Initiativen bei. HDN koordiniert zudem die Steuerung von wissenschaftlichen Einrichtungen, die auch als IT-Dienstleister fungieren wie die **Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)** für alle Hochschulen des Landes und gewährleistet damit eine einheitliche und kosteneffiziente Bereitstellung hochschulübergreifender IT-Dienste.
+**Hochschule.digital Niedersachsen (HdN)** fungiert als zentrale Koordinationsstelle für die Digitalisierung aller niedersächsischen Hochschulen. Das Präsidium der HsH bringt hochschulspezifische Anforderungen und strategische Bedarfe in die HdN-Gremien ein und trägt damit zur landesweiten Abstimmung digitaler Initiativen bei. HdN koordiniert zudem die Steuerung von wissenschaftlichen Einrichtungen, die auch als IT-Dienstleister fungieren wie die **Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)** für alle Hochschulen des Landes und gewährleistet damit eine einheitliche und kosteneffiziente Bereitstellung hochschulübergreifender IT-Dienste.
 
 Der **Chief Information Officer (CIO)** der HsH ist aktiv im **Landesarbeitskreis Niedersachsen Informationstechnik/Hochschulrechenzentren (LANIT)** eingebunden, wo operative IT-Belange, technische Standards und Best Practices zwischen den Hochschulrechenzentren ausgetauscht werden. Diese Vernetzung ermöglicht es, von den Erfahrungen anderer Einrichtungen zu profitieren und gemeinsame Lösungsansätze zu entwickeln.
 
-Die **GWDG** erbringt als zentraler IT-Dienstleister spezialisierte Services für die HsH (z.B. die Academic Cloud), insbesondere in den Bereichen Hochleistungsrechnen, Datenmanagement und Cloud-Infrastrukturen. Diese Arbeitsteilung ermöglicht es der HsH, sich auf ihre kernspezifischen IT-Anforderungen zu konzentrieren, während hochspezialisierte Dienste extern bezogmen werden.
+Die **GWDG** erbringt als zentraler IT-Dienstleister spezialisierte Services für die HsH (z.B. die Academic Cloud), insbesondere in den Bereichen Hochleistungsrechnen, Datenmanagement und Cloud-Infrastrukturen.
 
 Diese mehrstufige Einbindung in übergeordnete Strukturen stärkt die strategische Handlungsfähigkeit der HsH und ermöglicht eine effiziente Ressourcennutzung durch Synergieeffekte und gemeinsame Standards im niedersächsischen Hochschulraum.
 
@@ -22,7 +22,7 @@ Diese mehrstufige Einbindung in übergeordnete Strukturen stärkt die strategisc
 
 Die HsH implementiert eine IT-Organisation, die durch eine Governance-Struktur und klare Verantwortlichkeiten gekennzeichnet ist. Diese Organisation soll die Digitalisierung und IT als zentrale Gestaltungsinstrumente in allen Kernbereichen der Hochschule – Forschung, Lehre, Transfer, Weiterbildung und Verwaltung – verankern.
 
-![IT-Organisationsstruktur der Hochschule Hannover](images/20-organisation.png)
+![Digital-Governance der Hochschule Hannover](images/20-organisation.png)
 
 Die IT-Organisation der HsH folgt einem dualen Prinzip, das die **Stärken einer zentralen strategischen Steuerung** mit den **Vorteilen einer dezentralen Bedarfsorientierung** verbindet. Diese Dualität gewährleistet sowohl eine kohärente strategische Ausrichtung als auch die Entwicklung fachnaher, bedarfsgerechter Lösungen. Die strategische Verantwortung ist direkt im Präsidium verankert, während die Operationalisierung der Digitalstrategie durch den Chief Information Officer (CIO) koordiniert wird. Der CIO führt das Digital-Board (DB), welches alle Fakultäten und zentralen Einrichtungen repräsentativ einbindet und dadurch eine breite Partizipation an der digitalen Transformation und eine transparente Bedarfsorientierung sicherstellt.
 
@@ -106,7 +106,7 @@ Die IT-Organisationseinheiten sind wie folgt strukturiert:
 
 #### IT1: IT-Management & -Controlling
 
-Das Dezernat IT-Management & -Controlling verantwortet die **administrativen, strategischen und wirtschaftlichen Aspekte** des IT-Betriebs:
+**IT-Management & -Controlling** verantwortet die **administrativen, strategischen und wirtschaftlichen Aspekte** des IT-Betriebs:
 
 - Strategisches IT-Controlling und Budgetplanung
 - Personalplanung und -entwicklung für die IT-Organisationseinheiten
@@ -121,7 +121,7 @@ Das Dezernat IT-Management & -Controlling verantwortet die **administrativen, st
 
 #### IT2: IT-Infrastruktur und zentrale Dienste
 
-Das Dezernat IT-Infrastruktur und zentrale Dienste verantwortet die **technische Basis und den Betrieb** der hochschulweiten IT-Systeme:
+**IT-Infrastruktur** und zentrale Dienste verantwortet die **technische Basis und den Betrieb** der hochschulweiten IT-Systeme:
 
 - Planung, Betrieb und Wartung der Netzwerkinfrastruktur (LAN, WLAN, VPN)
 - Management der Server- und Storage-Infrastruktur
@@ -137,7 +137,7 @@ Das Dezernat IT-Infrastruktur und zentrale Dienste verantwortet die **technische
 
 #### IT3: Client-Management und Anwenderunterstützung
 
-Das Dezernat Client-Management und Anwenderunterstützung bildet die **direkte Schnittstelle zu den Nutzenden** der IT-Dienste und sorgt für eine optimale Arbeitsumgebung:
+**Client-Management und Anwenderunterstützung** bildet die **direkte Schnittstelle zu den Nutzenden** der IT-Dienste und sorgt für eine optimale Arbeitsumgebung:
 
 - Implementierung und Koordination des IT-Service-Managements nach ITIL 4
 - Betrieb des zentralen Service-Desks als Single Point of Contact
