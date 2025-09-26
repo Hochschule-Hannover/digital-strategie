@@ -24,8 +24,10 @@ flowchart BT
     %% Externe Organisationen
     HdN["Hochschule Digital<br/>Niedersachsen (HdN)"]:::ebene0
     LANIT["Landesarbeitskreis Niedersachsen Informationstechnik / Hochschulrechenzentren (LANIT)"]:::ebene0
-    GWDG["Gesellschaft für wissenschaftliche Datenverarbeitung Göttingen mbH (GWDG)"]:::ebene0
     
+    ITDL1["Andere Niedersächsische Wissenschaftseinrichtung (z.B. GWDG)"]:::ebene0
+    ITDL2["Andere Niedersächsische Wissenschaftseinrichtung (z.B. LUIS)"]:::ebene0
+
     %% Ständige Kommission als eigenständiger Knoten
     SKD["Ständige Kommission<br/>Digitalisierung"]:::ebene0
     
@@ -39,9 +41,11 @@ flowchart BT
     Praesidium --> |"bringt Anforderungen ein"| HdN
     CIO --> |"bringt Anforderungen ein"| LANIT
     Praesidium --> |"ist vorgesetzt"| CIO
-    GWDG --> |"erbringt Leistungen an"| HsH
+    ITDL1 --> |"erbringt IT-Dienste an"| HsH
+    ITDL2 --> |"erbringt IT-Dienste an"| HsH
     Praesidium --> |"wird vertreten durch Präsident"| SKD
-    HdN --> |"steuert für alle Hochschulen"| GWDG
+    HdN --> |"steuert für alle Hochschulen"| ITDL1
+    HdN --> |"steuert für alle Hochschulen"| ITDL2
     
     %% Farbdefinitionen
     classDef ebene0 fill:#E6F3FF,stroke:#B3D9FF,stroke-width:1px,color:#333333
